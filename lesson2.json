@@ -53,14 +53,14 @@
     "options": [
       {
         "text": "All of these",
+        "is_correct": true
+      },
+      {
+        "text": "It enhances the accuracy of the responses",
         "is_correct": false
       },
       {
-        "text": "",
-        "is_correct": false
-      },
-      {
-        "text": "",
+        "text": "It saves time",
         "is_correct": false
       },
       {
@@ -125,15 +125,15 @@
     "question": "Why does providing clear context and perspective in your prompts help ChatGPT generate better responses?",
     "options": [
       {
-        "text": "",
+        "text": "It confuses the model",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It limits the model's capabilities",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It makes the responses longer",
         "is_correct": false
       },
       {
@@ -148,15 +148,15 @@
     "question": "As you can see, role-playing helps tap into the model's extensive knowledge base in a structured way, ensuring the responses are detailed and contextually appropriate. Which example of a prompt uses role-playing to improve the response?",
     "options": [
       {
-        "text": "",
+        "text": "Can you give advice on cats",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "How would a cat expert introduce a new kitten to an older cat?",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me the best way to bring a new kitten into a home",
         "is_correct": false
       },
       {
