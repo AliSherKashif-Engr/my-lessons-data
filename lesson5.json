@@ -1,0 +1,130 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "As a travel agent, your main goal is to create personalized and engaging travel plans for your clients.\n\nFor this, you need to come up with a variety of travel package ideas for different types of clients. This includes family vacations, adventure trips, and luxury getaways."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#5 end_files/3c897b30-b7bd-47f0-8a05-e4f6e4ac7840.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Let's look at how you can use ChatGPT to generate these ideas.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've created 5 amazing travel packages. It took us longer than expected...\n\nNow I'm thinking of hiring you full-time!\n\nBut before we make it official, can you help us a bit more?"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#5 end_files/0d0438e6-e38e-4ff7-9f4a-b5ea4fb3aead.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Create detailed itineraries for their personal travel package:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that your itinerary is ready, you need to consider personal preferences that clients usually have."
+  },
+  {
+    "type": "quiz",
+    "question": "A family wants a customized travel plan for their Disney World vacation with luxury experiences included. Which prompt would you use to ask ChatGPT for detailed suggestions?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "\"Give me a list of luxury places at Disney World\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"Provide 3 luxury travel ideas for Disney World\"",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Vague prompts like \"Tell me about Disney World,\" \"Give me a list of luxury places,\" or \"Write about luxury travel tips\" won't yield detailed or actionable advice."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "After the ideas are ready, you can ask ChatGPT to include them in your travel plan.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "While we were creating a travel plan, we received a lot of emails. Let's use ChatGPT to address these client queries efficiently. Clients often have questions about destinations and travel logistics, so let's see how AI can help us respond quickly and accurately."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "You can paste the client's questions in ChatGPT and add the following prompt to get a draft response for them:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Let's see how you can deal with the next question:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Well done! To consolidate your success, let's focus on how you can use ChatGPT to keep clients informed and engaged throughout their travel experience.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Your contributions have made a significant impact on our service at Horizon Havens Agency.\n\nYou've successfully used ChatGPT to create engaging travel plans, respond to client queries, and keep travelers informed."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#5 end_files/ada42f8f-fe9b-4851-8a13-856e61877127.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Keep experimenting and refining your prompts to unlock even more potential with AI. We can't wait to see what other amazing things you come up with!\n\nStay tuned and get ready for more hands-on practice with ChatGPT!"
+  }
+]
