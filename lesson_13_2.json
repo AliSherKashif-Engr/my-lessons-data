@@ -1,0 +1,345 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "We'll explore issues of compliance, including fair use, copyright, privacy concerns, and other important but slightly yawn-inducing stuff.\n\nBut don't worry, I'll try to make it more engaging for you!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/910bc343-07e8-4081-a855-8e6730d322b4.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You might wonder, \"Why do I need to study this?\". I also find such topics a bit too dry for my taste, but here's why you do need to know the legal side of using ChatGPT.\n\nImagine navigating a maze blindfolded - that's what using AI feels like without understanding the legal implications."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/369dfc46-b7e1-4d95-8572-1480fba565df.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Once upon a time, a lawyer named, let's say, \"Alex\" decided to use ChatGPT to help with a legal case. Confident in the AI's abilities, Alex thought this was a foolproof plan. Spoiler alert: it wasn't."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/8d27f538-ddfe-4ed0-b0bc-0ca7608e59ab.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What do you think Alex primarily did wrong?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Alex relied solely on AI without verifying the information",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Alex relied solely on AI without verifying the information. This was a major mistake that led to incorrect arguments in court."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You might find this case amusing, but imagine a surgeon using AI to prepare for operations. Same here. As it happened with Alex, we cannot trust AI 100%."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/62e5ea47-bb26-4a9f-b201-66fdcab4bf40.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "ChatGPT provided fabricated legal precedents, and the case went downhill faster than a sled in winter. Alex had to explain to the court why he presented false information, leading to professional embarrassment and legal repercussions. Yes, this actually happened. Lesson learned: always verify the information your AI provides!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/7e83b35b-e8bc-45ee-9bfc-f9a9ab175037.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What do you think happened next?",
+    "options": [
+      {
+        "text": "The judge also used ChatGPT and created even more chaos",
+        "is_correct": false
+      },
+      {
+        "text": "The case was dismissed due to fabricated arguments",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Incorrect. Relying solely on AI without understanding the legal implications can lead to unexpected and often embarrassing outcomes."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, you know why you must first learn the legal side of using any AI tools. Think of it as equipping yourself with a legal shield before heading into battle.\n\nWhat if you don't? Well, let's just say you might end up like Alex, trying to explain to a judge why your AI made a terrible lawyer."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/4e9f2ea0-7105-4ef5-8b8f-765ac38d2b41.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Compliance might sound like a buzzkill, but it's your best friend when using AI tools like ChatGPT.\n\nEnsuring compliance means adhering to copyright laws, privacy regulations, and fair use policies. It's like keeping your nose clean in a world where everyone's watching."
+  },
+  {
+    "type": "quiz",
+    "question": "What is the main reason for adhering to compliance when using AI tools?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "To maintain professional credibility",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "To avoid legal troubles",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Not quite, while your answer is not fully incorrect, the main reason is to avoid legal troubles."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's talk about copyright. Imagine you've created a masterpiece, and someone else claims it as their own. You'd be pretty upset, right? That's what copyright laws are here to prevent. When using AI to generate content, make sure you're not violating someone's hard-earned intellectual property."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/9e014eef-0fcf-4586-bf32-dd14af60a145.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "How can you ensure you're respecting copyright when using AI tools?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Verify the source of content and get permission, even if it means asking your grandma for her secret cookie recipe",
+        "is_correct": false
+      },
+      {
+        "text": "Use the content without permission and hope the internet police are on vacation",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Respecting copyright means verifying the source of the content and obtaining permission, just like you'd want others to do with your work."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Fair use is like the Swiss army knife of copyright law. It allows limited use of copyrighted material without permission for specific purposes like commentary, criticism, and education.\n\nBut don't go thinking you can use anything and call it fair use – it has its limits."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/96e8aa38-1a28-42da-8179-112a8b062bf8.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Which of the following can be considered fair use?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Using a short excerpt of a book for a review",
+        "is_correct": false
+      },
+      {
+        "text": "Copying an entire movie for your YouTube channel",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Fair use has limits and typically includes commentary, criticism, and education."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Privacy is a big deal. Nobody likes their personal data being misused. When using AI, ensure you're respecting privacy laws like GDPR (General Data Protection Regulation). Anonymize personal data and use it responsibly. Remember, with great data comes great responsibility."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/66aefc8b-29da-41f3-b47d-a284c25c09aa.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "How can you ensure privacy compliance when using AI?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Anonymize personal data, follow GDPR regulations, and use data responsibly",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Ensuring privacy compliance involves anonymizing personal data, following GDPR regulations, and using data responsibly - like crafting the perfect recipe for data protection."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "When creating prompts, always verify the source of the information, respect privacy guidelines, and ensure the content falls under fair use. If it sounds like a lot, that's because it is. But hey, nobody said being responsible was easy."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/6b52d63c-ce8d-4970-8964-1ca9d5a5845c.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Which of the following actions does NOT align with compliance when using AI tools?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Respect privacy guidelines",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Share personal data like it's hot gossip",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Ensuring compliance requires actions like respecting privacy, ensuring fair use, and using legitimate publicly available content. Ignoring privacy guidelines is not compliant."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In this lesson, we covered the ethical considerations in prompt engineering, focusing on compliance, fair use, copyright, and privacy concerns. Remember, using AI responsibly isn't just about following rules; it's about maintaining integrity and trust."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/9a547866-5493-40ef-88d2-7bc87de70234.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, we'll delve into advanced techniques for ensuring transparency and accountability in AI-generated content. This will further enhance your ability to use ChatGPT ethically and effectively. Until next time, keep practicing ethical prompt engineering!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson# 13 end_files/450de4d0-96c6-4a2d-aabd-066f90702b37.webp",
+    "alt_text": ""
+  }
+]

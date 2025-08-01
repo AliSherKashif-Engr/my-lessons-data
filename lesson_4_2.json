@@ -1,0 +1,165 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "I'm Alex, the owner of EcoGoodwill, a retailer of eco-friendly products. Happy to have you on the team! Since it's your first day, I'll help you get started.\n\nYour goal is to increase engagement and attract new customers using AI tools like ChatGPT. To do this, you'll need to craft effective prompts and use them to create engaging content."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#4 end_files/1584b5a3-ed9c-41bd-bed7-6ddbba461108.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "To start, you need a variety of post ideas, including tips, customer testimonials, and product highlights.\n\nLet's see how you can use ChatGPT to generate these ideas."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Type your prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "Almost done! What should you do after generating post ideas?",
+    "options": [
+      {
+        "text": "Ask ChatGPT for specific texts to start your posts with",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "After generating post ideas, you should ask ChatGPT for specific texts with which to start your posts. Try it next."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Continue your chat:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Great! You have great post ideas and text suggestions.\n\nUsing the same principles of prompt engineering, you can direct ChatGPT to write entire posts by effectively providing all the necessary information."
+  },
+  {
+    "type": "quiz",
+    "question": "New Task! We just remembered that we are planning a series of posts for the upcoming Earth Day! Suggest a prompt to ask ChatGPT for some useful pieces of advice.",
+    "options": [
+      {
+        "text": "\"Provide 10 tips for Earth Day activities that promote eco-friendly practices for EcoGoodwill, a retailer of eco-friendly products\"",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Right! Providing clear and detailed prompts ensures that the responses are focused and relevant, which is crucial for creating engaging and informative content for events like Earth Day."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great Job! With these ideas in hand, you can move on to content creation.\n\nFor this, you will need well-crafted captions for your products.\n\nThey also should be engaging and match your brand's voice."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in the Gap!",
+    "instruction": "Delegate this task to ChatGPT:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "After crafting a caption, you need to add a product description to your post. How would you craft your prompt to get the most effective response from ChatGPT?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "\"Write a detailed description of our new biodegradable products, highlighting their benefits and eco-friendly features\"",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Right! This prompt will help ChatGPT generate precise and relevant responses, making your posts more informative and appealing."
+  },
+  {
+    "type": "text",
+    "content": "ChatGPT's response to the prompt from the quiz:\n\n\"Crafted to reduce environmental impact with materials that decompose naturally, these products minimize waste while delivering high-quality performance. Make the switch today and join us in supporting a sustainable lifestyle!\""
+  },
+  {
+    "type": "text",
+    "content": "As you can see from this example, prompt engineering can enhance your social media posting and make your job easier.\n\nThe next example supports it even more."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in the Gap!",
+    "instruction": "Instagram stories are a great way to engage your audience. Let's script a story featuring a customer's journey with EcoGoodwill:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "That is it for today. Thank you so much for helping EcoGoodwill. Your efforts are truly appreciated, and you've made a significant impact on our mission to promote eco-friendly living. Your dedication and creativity have not gone unnoticed."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Whether you're brainstorming ideas, crafting captions, scripting stories, or doing an absolutely different type of job, clear and specific prompts can significantly improve the quality of your content.\n\nApply this knowledge by experimenting and improving your prompts to unlock the full potential of AI in your work!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#4 end_files/d781c6ae-ff41-48dc-8c12-a53a635abb36.webp",
+    "alt_text": ""
+  }
+]

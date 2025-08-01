@@ -1,0 +1,202 @@
+[
+  {
+    "type": "text",
+    "content": "Remember how we talked about LLMs being like super-smart librarians? Well, prompt engineering is like learning to ask that librarian the perfect questions to get the information you need.\n\nAs we determined, the art and science of crafting prompts (inputs) guide AI models to produce the most valuable and relevant outputs."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the context of AI, a prompt is the initial text you provide to the model. It can be a question, a statement, or even a set of instructions."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/7d2e03c9-a032-4653-9ec0-4547d4aba098.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "A prompt directs the model's response by providing context and specific instructions.\n\nFor instance, \"Write a story about a cat\" is a prompt. The AI model uses this input to generate its output - in this case, a story about a cat."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/91013b75-26e2-4c0b-b115-a402a8c7e88c.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Remember when you had to write a story for an assignment in elementary school using specific vocabulary words? You can do the same with a prompt by adding more details."
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Practice!",
+    "instruction": "Complete this prompt with missing words.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Thus, the key rule of prompt engineering is to specify the commands to get the most desired result. By following this rule, you will engineer your prompts effectively."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/142704a7-a127-4fd8-a9df-ea4466b481d4.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Nevertheless, you might wonder, \"Why is prompt engineering so important?\" Indeed, why?",
+    "options": [
+      {
+        "text": "All of these",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It allows to leverage the full potential of LLMs",
+        "is_correct": false
+      }
+    ],
+    "explanation": "By crafting effective prompts, you reduce the need for extensive post-editing. Also, it enhances the accuracy and relevance of the responses, making the model a more powerful tool for your projects. Finally, it allows you to leverage the full potential of LLMs, whether you're generating content, solving problems, or exploring creative ideas."
+  },
+  {
+    "type": "text",
+    "content": "Prompt engineering enables you to tailor ChatGPT outputs to specific needs or audiences.\nWhether you're generating marketing copy, technical documentation, or creative stories, the right prompts can help you achieve the desired tone, style, and content."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/cf3392e3-5ae6-463e-8c40-9c75fead1e2e.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's examine the three main techniques of prompt engineering. The first one is specificity. As we indicated, the more specific your prompt, the more likely you are to get a precise answer."
+  },
+  {
+    "type": "quiz",
+    "question": "Which of these prompts is more specific if you need to learn more about a certain cat breed?",
+    "options": [
+      {
+        "text": "\"Explain the history and characteristics of the Persian cat breed\"",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "If you ask, \"Explain the history and characteristics of the Persian cat breed,\" you're likely to get a much more focused and informative answer that aligns with your initial goal."
+  },
+  {
+    "type": "text",
+    "content": "Next up is role-playing. This technique involves framing your prompt in a way that assigns a role to the model. This way, ChatGPT will know how to act and in what style to answer to give you the best response possible."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/a47aebcb-c711-42a5-9c05-9a284ee974db.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "How would you ask ChatGPT to write a poem in a certain style?",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "Why does providing clear context and perspective in your prompts help ChatGPT generate better responses?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It helps generate more relevant and accurate responses",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Providing clear context and perspective helps the model generate more relevant and accurate responses."
+  },
+  {
+    "type": "quiz",
+    "question": "As you can see, role-playing helps tap into the model's extensive knowledge base in a structured way, ensuring the responses are detailed and contextually appropriate. Which example of a prompt uses role-playing to improve the response?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "\"You are a cat behaviorist, Explain how to introduce a new kitten to a household with an older cat\"",
+        "is_correct": true
+      }
+    ],
+    "explanation": "By assigning the role of a cat behaviorist, the prompt ensures the response is detailed and context-specific."
+  },
+  {
+    "type": "text",
+    "content": "The third technique is iterative prompting.\nSometimes, your initial prompt might not yield the perfect response. This is where iterative prompting comes in. It involves refining and tweaking your prompts based on the initial outputs to get closer to the desired result."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/1b5eb7a0-8333-41a2-ab8b-5283913a5b16.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Think about how you would follow up on an initial prompt to create an ad for cat food targeting cat owners.\n\nInitial Prompt: What makes premium cat food beneficial for cats?"
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Let's practice!",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Hence, iterative prompting is like a dialogue, where each iteration helps you hone in on the perfect prompt."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson2 end_files/bd52fdb3-9316-407f-afb8-6f7889dd9197.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "To wrap up, writing a good prompt is all about combining the techniques and putting them into practice. Every time you interact with the model, you have a chance to learn and improve. Keep experimenting, stay curious, and most importantly, have fun with it!"
+  }
+]

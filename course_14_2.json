@@ -1,0 +1,175 @@
+[
+  {
+    "type": "text",
+    "content": "Imagine you are a professional data engineer who delegates most of your work to AI.\n\nOne morning, you receive an alarming message from the CEO of the company. It turns out that your AI calculations gave an inaccurate answer to an important client, and now the whole team has to figure out what went wrong."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/1d6333ce-e807-48e2-b0a5-ee756278c882.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What is the first step you should take upon receiving the alarming message from the CEO?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Assemble your team and start analyzing the AI prompt",
+        "is_correct": false
+      },
+      {
+        "text": "Blame the AI and inform the CEO that it's not your responsibility",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Addressing critical issues requires immediate analysis and teamwork to identify the root cause and find a solution."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "As you gather your team, you decide to focus on three key metrics to evaluate the performance of the AI prompts: answer accuracy, response rate, and user satisfaction."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/f1adb7ce-eff8-491e-8c68-d7bd47011050.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Start!",
+    "instruction": "Create a prompt to evaluate the performance of the AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You start by collecting data on the performance of the AI prompts over the past month. The data includes:"
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/fc60f53d-715c-499a-b794-64ffe2d0f04f.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "1) Answer Accuracy: The percentage of correct responses provided by the AI.\n2) Response Rate: The speed at which the AI responds to queries.\n3) User Satisfaction: Feedback ratings from clients on their experience."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Upon analyzing the data, you notice a significant drop in answer accuracy for certain types of queries. This drop coincides with changes made to the AI prompts last week."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/4d6304b0-1971-4ce9-93dc-b5d32dd0789d.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Let's create a prompt to identify the specific issue with the AI prompts that caused the drop in accuracy.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that you've identified potential causes, your team has decided to refine the AI prompts.\n\nThe goal is to improve answer accuracy while maintaining a high response rate and user satisfaction."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/3cea6ba7-1d33-4d42-8f70-c74d139d3c62.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Create a prompt:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "After making the necessary changes, you need to run a new set of tests to evaluate the updated AI prompts' performance."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/405ab6ed-ca92-4510-bff9-3f89a809299d.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Your team followed these steps and created a perfect workflow for evaluating new AI prompts.\n\n1. Gather Data: Used various queries and scenarios to test the new prompts.\n2. Compare Performance: Assessed the new prompts against the old ones to identify improvements.\n3. Record Findings: Documented all testing processes and results for future reference."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/9b77e5a9-a6ef-4342-a4b6-c79bb5615c32.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What should be the next step after observing improved metrics from the new AI prompts?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Continue monitoring the metrics to ensure sustained performance",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Continue monitoring the metrics to ensure sustained performance and quickly identify any new issues."
+  },
+  {
+    "type": "text",
+    "content": "In this lesson, you learned how to analyze the performance of AI prompts using key metrics such as answer accuracy, response rate, and user satisfaction.\n\nThank you for practicing refining prompts to improve performance and highlighting the importance of continuous monitoring."
+  },
+  {
+    "type": "image",
+    "image_url": "./course14 end_files/65f2d0d5-5701-4730-bb8c-1bbdb983e0e8.webp",
+    "alt_text": ""
+  }
+]
