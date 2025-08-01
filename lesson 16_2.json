@@ -1,0 +1,257 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In this final lesson, we'll be focusing on assessing your understanding and application of prompt engineering techniques.\n\nAnswer the following questions by choosing the most appropriate prompt for each scenario."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose to generate social media post ideas for a new eco-friendly product?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "What should I post about our new product on social media platforms to attract engagement",
+        "is_correct": false
+      },
+      {
+        "text": "Generate three different post ideas specifically tailored for a new eco-friendly product launch campaign",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A specific prompt ensures effective marketing. The other options? Let's just say they're like trying to play darts in the dark."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose to create a troubleshooting guide for connectivity issues with a smart home device?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Create a detailed troubleshooting guide specifically for resolving connectivity issues with our smart home device",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A clear and detailed prompt ensures users get the help they need. The other options are about as helpful as a chocolate teapot."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose to ask ChatGPT for a financial performance report?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Provide a comprehensive quarterly financial performance report for our company, including revenue, spending, net profit margin, churn rate, ARPU, and operating margin",
+        "is_correct": false
+      },
+      {
+        "text": "What is our financial status this quarter, and how have our key financial metrics changed",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A detailed and comprehensive prompt is not just a long report. The key is to ensure ChatGPT is provided with clear instructions and all essential details."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose for creating a personalized travel itinerary?",
+    "options": [
+      {
+        "text": "Create a detailed itinerary for a family vacation to Disney World, including daily activities, dining options, and entertainment suitable for all ages",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A specific prompt ensures a well-planned itinerary. The other options? Let's just say you might end up sleeping in Cinderella's Castle."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose to write an engaging email to employees?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Act as a friendly HR assistant; Write an email to employees about a new employee announcement, including their role and a warm welcome",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Sometimes, using role-playing techniques helps ChatGPT generate more accurate and contextually appropriate responses. Without specifying the role, the email might lack the engaging tone and details needed for effective communication."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt is best to ensure that you will generate content that aligns with compliance?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Create content for our marketing campaign, ensuring it follows copyright laws, privacy regulations, and fair use policies",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Always make sure your content is compliant with copyright laws, privacy regulations, and fair use policies! Better to add 2-3 more prompts to your workflow rather than end up with fines and lawsuits."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose to compare marketing strategies?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Compare three different marketing strategies for our new product. Include cost-effectiveness, target audience reach, and potential ROI for each strategy",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A detailed comparative prompt ensures thorough analysis, providing specific criteria like cost-effectiveness, target audience reach, and potential ROI. This way, you get a comprehensive understanding of each strategy's strengths and weaknesses."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose for creating a customer feedback survey?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Create a detailed customer feedback survey for our new product launch, including questions on user satisfaction, product features, and areas for improvement",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A detailed prompt ensures your survey covers all critical areas of customer feedback. The other options? Like asking, \"How was it?\" after a movie - you'll get answers, but not necessarily useful ones."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose for developing a customer service script?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Create a detailed customer service script for handling common inquiries about our product, including greeting, troubleshooting steps, and follow-up questions",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A detailed prompt with specific steps ensures a consistent and effective customer service script. The other options are like trying to follow a recipe without proper instructions - expect a mess."
+  },
+  {
+    "type": "quiz",
+    "question": "What prompt would you choose to create an engaging eBook on prompt engineering?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Develop a comprehensive eBook on prompt engineering, including chapters on different techniques, such as zero-shot, few-shot, and chain-of-thought prompting, with practical examples and exercises.",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A detailed and structured prompt ensures your eBook is comprehensive and useful, covering all necessary aspects of prompt engineering. The other options? They might leave your readers feeling like they're missing crucial pieces of information."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Well done! You've made it through all the lessons and quizzes. Your prompt engineering skills are now honed and ready for real-world application. Remember, practice makes perfect, so keep experimenting and refining your prompts. Go out there and create amazing prompts that solve problems, generate content, and make the most of AI. Congratulations, and happy prompt engineering!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 16 end_files/0aabfe81-8c5b-4593-8248-695a2a251609.webp",
+    "alt_text": ""
+  }
+]

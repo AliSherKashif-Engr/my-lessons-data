@@ -1,0 +1,11 @@
+[
+  {
+    "type": "text",
+    "content": "In this lesson, we're going to focus on context management in prompts.\n\nWe'll cover techniques for preserving context, the self-consistency technique, and strategies for writing clear instructions and providing reference text. By the end of this lesson, you'll be able to manage multi-turn conversations effectively."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#8_files/77463bbe-2a92-4e42-a55c-a5aa275a63f1.webp",
+    "alt_text": ""
+  }
+]

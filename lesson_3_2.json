@@ -1,0 +1,202 @@
+[
+  {
+    "type": "quiz",
+    "question": "Let's think: why is it important to feed ChatGPT with data?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It provides the context and background information necessary for generating accurate and relevant responses",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Feeding ChatGPT with data provides the context and background information necessary for generating accurate and relevant responses."
+  },
+  {
+    "type": "text",
+    "content": "This technique is important because it allows us to tailor ChatGPT's responses to our specific needs and circumstances.\n\nSo, by providing relevant information upfront, you can guide the AI to generate more accurate, contextual, and useful outputs. It's like giving ChatGPT a mini-briefing before asking it to tackle a task or answer a question."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/2cfa8827-ee1d-45fb-8413-72470ed75176.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Try providing the context in your prompt!",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "So, as you might notice, the key is to be concise and relevant in the information you provide."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/8a17c7b9-5981-4b1e-9f09-c33e0c6fefd4.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What should you consider to ensure that ChatGPT understands your query or task?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "The background knowledge ChatGPT needs, including specific terminology, facts, or constraints",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "When writing a prompt, consider the background knowledge ChatGPT needs, including specific terminology, facts, or constraints."
+  },
+  {
+    "type": "text",
+    "content": "Let's look at a more complex example: working on a marketing campaign for a new eco-friendly water bottle. There are several ways you can use ChatGPT to help with this.\n\nFirst, you could simply ask the AI to generate some marketing ideas for eco-friendly products. But if you do this, you'll likely get generic or irrelevant suggestions that won't be very useful for your specific project."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/a3d669b0-539e-4368-8c50-914a72241445.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Given above, how would you generate a prompt to maximize the effectiveness of ChatGPT's response?",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "Why is providing ChatGPT with background knowledge better for generating marketing ideas using ChatGPT?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It sets ChatGPT up to generate more relevant and tailored marketing ideas by providing a clear understanding of the product, target audience, and unique selling points",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "By sticking to this approach, you're setting ChatGPT up to generate more relevant and tailored marketing ideas. It now has a clear understanding of the product, the target audience, and the unique selling points."
+  },
+  {
+    "type": "text",
+    "content": "Another practical example is when you're asking ChatGPT to help with a coding task. Instead of just asking how to solve a problem, you might start by specifying the programming language, any libraries or frameworks you're using, and any requirements or constraints.\n\nThis way, ChatGPT can provide more targeted and useful advice."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/0505f170-4ca6-40b4-b253-c68abc46ab61.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Must you provide ALL the context upfront?",
+    "options": [
+      {
+        "text": "Yes, because ChatGPT will lose focus if the context is separated",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "No, because it can make the prompt too long or complex",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Providing all context upfront is not always necessary. However, it is not because it takes too much time but rather because it can make the prompt overly long or complex, resulting in a low-quality response. It's often better to introduce information in stages to keep the prompt manageable and clear."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Though, keep in mind that while ChatGPT is incredibly capable, it's not omniscient.\nIt won't remember information from previous conversations, so you may need to restate important context if you're having a multi-part interaction or if you come back to a task later."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/915ae472-f332-4e1f-b99e-ee35c1db1249.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "So, if you are planning to continuously work on your eco-friendly water bottle marketing campaign, what should you do at the beginning of each ChatGPT session?",
+    "options": [
+      {
+        "text": "Restate key points and provide necessary context",
+        "is_correct": false
+      },
+      {
+        "text": "Tell ChatGPT your favorite coffee order",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Not quite. The best approach is to restate key points and provide necessary context, ensuring ChatGPT maintains consistency and understands your needs better."
+  },
+  {
+    "type": "text",
+    "content": "Overall, as you practice working with ChatGPT, you'll develop a better sense of what information is most crucial to include and how to present it effectively.\nRemember, the goal is to give ChatGPT enough context to understand your needs without overwhelming it with unnecessary details."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/e121e26d-b300-456a-bcc6-52fb1c9fd513.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "As we wrap up, let's remember the key points:\n\n1. Feeding AI with the right data helps you use its capabilities more effectively by providing relevant context and constraints.\n2. This data opens up new possibilities for creative problem-solving and efficient task completion.\n\nKeep experimenting, stay curious, and don't be afraid to refine your approach as you learn. And get ready to practice the knowledge you've gained in the next lesson!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson#3 end_files/589c5c6a-a45d-4ae8-8ae9-844b3cc739c0.webp",
+    "alt_text": ""
+  }
+]
