@@ -15,7 +15,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/7d2e03c9-a032-4653-9ec0-4547d4aba098.webp",
+    "image_url": "./7d2e03c9-a032-4653-9ec0-4547d4aba098.webp",
     "alt_text": ""
   },
   {
@@ -24,7 +24,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/91013b75-26e2-4c0b-b115-a402a8c7e88c.webp",
+    "image_url": "./91013b75-26e2-4c0b-b115-a402a8c7e88c.webp",
     "alt_text": ""
   },
   {
@@ -36,7 +36,7 @@
     "title": "Let's Practice!",
     "instruction": "Complete this prompt with missing words.",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
@@ -44,7 +44,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/142704a7-a127-4fd8-a9df-ea4466b481d4.webp",
+    "image_url": "./142704a7-a127-4fd8-a9df-ea4466b481d4.webp",
     "alt_text": ""
   },
   {
@@ -53,14 +53,14 @@
     "options": [
       {
         "text": "All of these",
+        "is_correct": true
+      },
+      {
+        "text": "It enhances the accuracy of the responses",
         "is_correct": false
       },
       {
-        "text": "",
-        "is_correct": false
-      },
-      {
-        "text": "",
+        "text": "It saves time",
         "is_correct": false
       },
       {
@@ -76,7 +76,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/cf3392e3-5ae6-463e-8c40-9c75fead1e2e.webp",
+    "image_url": "./cf3392e3-5ae6-463e-8c40-9c75fead1e2e.webp",
     "alt_text": ""
   },
   {
@@ -110,7 +110,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/a47aebcb-c711-42a5-9c05-9a284ee974db.webp",
+    "image_url": "./a47aebcb-c711-42a5-9c05-9a284ee974db.webp",
     "alt_text": ""
   },
   {
@@ -118,22 +118,22 @@
     "title": "Fill in The Gap!",
     "instruction": "How would you ask ChatGPT to write a poem in a certain style?",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "quiz",
     "question": "Why does providing clear context and perspective in your prompts help ChatGPT generate better responses?",
     "options": [
       {
-        "text": "",
+        "text": "It confuses the model",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It limits the model's capabilities",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It makes the responses longer",
         "is_correct": false
       },
       {
@@ -148,15 +148,15 @@
     "question": "As you can see, role-playing helps tap into the model's extensive knowledge base in a structured way, ensuring the responses are detailed and contextually appropriate. Which example of a prompt uses role-playing to improve the response?",
     "options": [
       {
-        "text": "",
+        "text": "Can you give advice on cats",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "How would a cat expert introduce a new kitten to an older cat?",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me the best way to bring a new kitten into a home",
         "is_correct": false
       },
       {
@@ -172,7 +172,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/1b5eb7a0-8333-41a2-ab8b-5283913a5b16.webp",
+    "image_url": "./1b5eb7a0-8333-41a2-ab8b-5283913a5b16.webp",
     "alt_text": ""
   },
   {
@@ -184,7 +184,7 @@
     "title": "Fill in The Gap!",
     "instruction": "Let's practice!",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
@@ -192,7 +192,7 @@
   },
   {
     "type": "image",
-    "image_url": "./lesson2 end_files/bd52fdb3-9316-407f-afb8-6f7889dd9197.webp",
+    "image_url": "./bd52fdb3-9316-407f-afb8-6f7889dd9197.webp",
     "alt_text": ""
   },
   {
