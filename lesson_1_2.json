@@ -56,7 +56,7 @@
     "title": "Fill in The Gap!",
     "instruction": "Suppose you're writing a story and hit a creative block. Try using ChatGPT to help you continue the story.",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
@@ -67,7 +67,7 @@
     "title": "Fill in The Gap!",
     "instruction": "For another example, try asking the AI about making a snack.",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "quiz",
@@ -101,7 +101,7 @@
     "title": "Fill in The Gap!",
     "instruction": "Try following up on your previous question about sandwiches by clarifying your food preferences.",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
@@ -126,7 +126,7 @@
     "title": "Fill in The Gap!",
     "instruction": "Imagine you do not have time to think about ingredients, and you do not want to choose between toasted or fresh bread. How would you ask ChatGPT to save you some time?",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
