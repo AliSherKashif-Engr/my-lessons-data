@@ -36,7 +36,7 @@
     "title": "Let's Practice!",
     "instruction": "Complete this prompt with missing words.",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
@@ -118,7 +118,7 @@
     "title": "Fill in The Gap!",
     "instruction": "How would you ask ChatGPT to write a poem in a certain style?",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "quiz",
@@ -184,7 +184,7 @@
     "title": "Fill in The Gap!",
     "instruction": "Let's practice!",
     "task_type": "fill_in_the_gap",
-    "skipped": true
+    "skipped": false
   },
   {
     "type": "text",
