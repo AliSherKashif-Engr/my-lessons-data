@@ -29,7 +29,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "But How Does ChatGPT Actually Work?",
     "content": null,
     "image_url": null
   },
@@ -55,6 +55,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Suppose you're writing a story and hit a creative block. Try using ChatGPT to help you continue the story.",
+    "solution": "Once upon a time, in a land far away, there lived a young princess who dreamed of adventure.",
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
@@ -66,6 +67,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "For another example, try asking the AI about making a snack.",
+    "solution": "To make a great sandwich, layer fresh ingredients such as crisp vegetables, quality meats or cheeses, and a spread of your choice between slices of your favorite bread. Ensure the bread is toasted or fresh, and balance the flavors and textures for a satisfying bite.",
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
@@ -78,15 +80,15 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "It generates a random recipe",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It repeats a recipe it has seen before",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It copies a recipe from a cookbook",
         "is_correct": false
       }
     ],
@@ -100,6 +102,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Try following up on your previous question about sandwiches by clarifying your food preferences.",
+    "solution": "To make a delicious vegetarian sandwich, layer fresh ingredients like crisp vegetables, creamy avocado, hummus, and a slice of your favorite cheese between slices of whole grain or sourdough bread. Ensure the bread is toasted or fresh, and balance the flavors and textures for a satisfying bite."
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
@@ -125,6 +128,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Imagine you do not have time to think about ingredients, and you do not want to choose between toasted or fresh bread. How would you ask ChatGPT to save you some time?",
+    "solution": "To make a delicious vegetarian sandwich, start by layering fresh, crisp lettuce, thinly sliced tomato, cucumber, bell pepper, creamy avocado slices, and a spread of hummus between two slices of lightly toasted whole-grain bread."
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
