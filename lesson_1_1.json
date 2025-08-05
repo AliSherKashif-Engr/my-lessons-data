@@ -1,4 +1,10 @@
 [
+   {
+    "type": "heading",
+    "title": "What is ChatGPT?",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Hey there, I'm Alex! Today, we're diving into the world of ChatGPT, an advanced large language model (LLM).\n\nIf you're just starting out using AI, you're in the right place. Here, you'll explore what an LLM is and how ChatGPT works. I'll even throw in some practical exercises to introduce you to the basics of prompt engineering, the most important term in the AI world. Ready? Let's get started!"
