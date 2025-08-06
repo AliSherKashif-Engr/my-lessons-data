@@ -1,5 +1,11 @@
 [
   {
+    "type": "heading",
+    "title": "Prompt Engineering?",
+    "content": null,
+    "image_url": null
+  },
+  {
     "type": "text",
     "content": "Last time, we delved into the realm of LLMs and ChatGPT. Now, let's build on that knowledge by diving deeper into the basics of prompt engineering. Buckle up!"
   },
