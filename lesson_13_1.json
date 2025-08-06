@@ -1,4 +1,10 @@
 [
+    {
+    "type": "heading",
+    "title": "Ethical Considerations",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Welcome to the first lesson of Advanced Prompt Techniques! I am Liam, and today, we're diving into the ethical considerations you need to keep in mind when using ChatGPT for prompt engineering."
