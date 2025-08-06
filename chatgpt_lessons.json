@@ -5,7 +5,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_1_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_1_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 1
   },
 {
     "lesson_title": "Prompt Engineering?",
@@ -13,7 +14,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_2_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_2_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 2
   },
 {
     "lesson_title": "Data Matters?",
@@ -21,7 +23,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_3_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_3_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 3
   },
 {
     "lesson_title": "Get Ready to Become an SMM Specialist!",
@@ -29,7 +32,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_4_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_4_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 4
 
 
   },
@@ -39,7 +43,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_5_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_5_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 5
   },
 {
     "lesson_title": "AI for Event Planning",
@@ -47,7 +52,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_6_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_6_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 6
   },
 {
     "lesson_title": "Welcome Back!",
@@ -55,7 +61,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_7_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_7_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 7
   },
 {
     "lesson_title": "Context Management",
@@ -63,7 +70,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_8_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_8_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 8
   },
 {
     "lesson_title": "Generating Creative Content",
@@ -71,7 +79,8 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_9_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_9_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 9
   },
   {
     "lesson_title": "Complex Prompts for Data Processing",
@@ -79,6 +88,61 @@
     "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_10_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_10_1.json",
-    "is_lesson_Completed": false
+    "is_lesson_Completed": false,
+    "lesson_count": 10
+  },
+    {
+    "lesson_title": "SEO Optimization with ChatGPT",
+    "image_url": "./081428b7-e42d-480d-90ff-871ea9baa1fb.webp",
+    "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_11_2.json",
+    "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
+    "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_11_1.json",
+    "is_lesson_Completed": false,
+    "lesson_count": 11
+  },
+{
+    "lesson_title": "Problem Solving",
+    "image_url": "./f1f6597e-4120-4f00-8352-815fab6c2001.webp",
+    "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_2_2.json",
+    "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
+    "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_2_1.json",
+    "is_lesson_Completed": false,
+    "lesson_count": 12
+  },
+{
+    "lesson_title": "Ethical Considerations",
+    "image_url": "./7c1f6b9b-b192-4f2c-b119-0a8ccde66797.webp",
+    "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_13_2.json",
+    "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
+    "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_13_1.json",
+    "is_lesson_Completed": false,
+    "lesson_count": 13
+  },
+{
+    "lesson_title": "Performance Analysis of AI Prompts",
+    "image_url": "./aa7a2225-c087-4c5c-9382-ddcab071698a.webp",
+    "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_14_2.json",
+    "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
+    "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_14_1.json",
+    "is_lesson_Completed": false,
+    "lesson_count": 14
+  },
+{
+    "lesson_title": "Creating and Selling AI Prompts",
+    "image_url": "./e4b667ec-3df7-4578-88a5-57aa88d7b973.webp",
+    "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_15_2.json",
+    "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
+    "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_15_1.json",
+    "is_lesson_Completed": false,
+    "lesson_count": 15
+  },
+{
+    "lesson_title": "Final Lesson!",
+    "image_url": "./08c71063-bad8-43ac-b830-1df20b2b5e59.webp",
+    "_baseUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_16_2.json",
+    "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
+    "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_16_1.json",
+    "is_lesson_Completed": false,
+    "lesson_count": 16
   }
 ]
