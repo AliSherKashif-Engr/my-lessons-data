@@ -1,4 +1,10 @@
 [
+    {
+    "type": "heading",
+    "title": "Generating Creative Content",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "In this lesson, we're going to dive into prompt engineering for content creation.\n\nYou'll learn how to generate creative content! By the end of this lesson, you'll be able to use ChatGPT to craft detailed and compelling articles that meet specific requirements."
