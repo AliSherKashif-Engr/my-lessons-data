@@ -1,4 +1,10 @@
 [
+    {
+    "type": "heading",
+    "title": "AI for Event Planning",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Welcome to the last beginner-level adventure in AI-assisted work! In this lesson, we'll explore how artificial intelligence can revolutionize event planning."
