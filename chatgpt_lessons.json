@@ -6,8 +6,6 @@
     "_baseImageUrl": "https://alisherkashif-engr.github.io/my-lessons-data/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/my-lessons-data/lesson_1_1.json",
     "is_lesson_Completed": false
-
-
   },
 {
     "lesson_title": "What is ChatGPT?",
@@ -98,5 +96,5 @@
     "is_lesson_Completed": false
 
 
-  },
+  }
 ]
