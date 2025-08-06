@@ -1,5 +1,11 @@
 [
   {
+    "type": "heading",
+    "title": "Data Matters?",
+    "content": null,
+    "image_url": null
+  },
+  {
     "type": "text",
     "content": "Welcome back, future prompt engineer! Today, you're going to take things up a notch and discuss a crucial part of using AI - feeding ChatGPT with data."
   },
