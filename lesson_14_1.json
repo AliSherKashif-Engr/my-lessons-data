@@ -1,4 +1,10 @@
 [
+    {
+    "type": "heading",
+    "title": "Performance Analysis of AI Prompts",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Today, you will delve into the skills needed to analyze the performance of AI prompts and compare results based on key metrics."
