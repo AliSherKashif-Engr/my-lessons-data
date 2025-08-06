@@ -1,4 +1,10 @@
 [
+    {
+    "type": "heading",
+    "title": "Problem Solving",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Hey there, future prompt engineering expert! Today, we're diving into something really exciting - combining different techniques to solve complex problems."
