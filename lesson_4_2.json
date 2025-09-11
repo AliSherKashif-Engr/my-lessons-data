@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Welcome to the Team!!",
     "content": null,
     "image_url": null
   },
@@ -22,6 +22,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Type your prompt.",
+    "solution": "1. Eco-friendly tips to increase engagement. 2. Customer testimonials to increase your credibility. 3. Product highlights to make clients aware of your offerings.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -34,15 +35,15 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Post random content without a plan",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Ignore the ideas and start over",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Take a break and have some coffee",
         "is_correct": false
       }
     ],
@@ -52,6 +53,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Continue your chat:",
+    "solution": "1. Five easy tips for reducing your carbon footprint at home 2. Meet Jane, who loves our biodegradable products! 3. Discover our new range of reusable shopping bags!",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -64,19 +66,19 @@
     "question": "New Task! We just remembered that we are planning a series of posts for the upcoming Earth Day! Suggest a prompt to ask ChatGPT for some useful pieces of advice.",
     "options": [
       {
-        "text": "\"Provide 10 tips for Earth Day activities that promote eco-friendly practices for EcoGoodwill, a retailer of eco-friendly products\"",
+        "text": "Provide 10 tips for Earth Day activities that promote eco-friendly practices for EcoGoodwill, a retailer of eco-friendly products",
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Write about Earth Day",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Give me a list of Earth Day facts",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Suggest some ideas for Earth Day posts that engage followers",
         "is_correct": false
       }
     ],
@@ -96,6 +98,7 @@
     "type": "practice_task",
     "title": "Fill in the Gap!",
     "instruction": "Delegate this task to ChatGPT:",
+    "solution": "Say goodbye to plastic and hello to our new biodegradable range! Join us in making a difference, one product at a time.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -104,19 +107,19 @@
     "question": "After crafting a caption, you need to add a product description to your post. How would you craft your prompt to get the most effective response from ChatGPT?",
     "options": [
       {
-        "text": "",
+        "text": "We have new products, What can you say about them?",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me something about our new eco-friendly items, This is for the post",
         "is_correct": false
       },
       {
-        "text": "\"Write a detailed description of our new biodegradable products, highlighting their benefits and eco-friendly features\"",
+        "text": "Write a detailed description of our new biodegradable products, highlighting their benefits and eco-friendly features",
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Describe the new products as much as you can for me to choose the best parts of your answer",
         "is_correct": false
       }
     ],
@@ -134,6 +137,7 @@
     "type": "practice_task",
     "title": "Fill in the Gap!",
     "instruction": "Instagram stories are a great way to engage your audience. Let's script a story featuring a customer's journey with EcoGoodwill:",
+    "solution": "Part 1: Meet Emma, who switched to eco-friendly products six months ago. - Image of Emma with brand's products -Caption: Starting my journey to a greener lifestyle! Part 2: Emma shares her favorite products that made the transition easy and fun. - Video of Emma using the products - Caption: Loving these biodegradable kitchen sponges! Part 3: Thanks to EcoGoodwill, Emma has reduced her household waste by 50 percent! - Before and after images of her waste bins -Caption: Small changes, big impact",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
