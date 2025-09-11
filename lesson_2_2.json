@@ -1,5 +1,11 @@
 [
   {
+    "type": "heading",
+    "title": "Prompt Engineering",
+    "content": null,
+    "image_url": null
+  },
+  {
     "type": "text",
     "content": "Remember how we talked about LLMs being like super-smart librarians? Well, prompt engineering is like learning to ask that librarian the perfect questions to get the information you need.\n\nAs we determined, the art and science of crafting prompts (inputs) guide AI models to produce the most valuable and relevant outputs."
   },
@@ -35,6 +41,7 @@
     "type": "practice_task",
     "title": "Let's Practice!",
     "instruction": "Complete this prompt with missing words.",
+    "solution": "One sunny afternoon, Mittens, a playful tabby cat, chased after a fluttering butterfly in the garden. Her paws danced lightly on the grass as she leaped and twirled with joy.",
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
@@ -98,7 +105,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Tell me what you know about different cat breeds",
         "is_correct": false
       }
     ],
@@ -117,6 +124,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "How would you ask ChatGPT to write a poem in a certain style?",
+    "solution": "Whiskers twitch, tails that curl, Playful pounce, graceful whirl. On moonlit nights and sunny days, Cats prance and purr in endless ways.",
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
@@ -183,6 +191,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's practice!",
+    "solution": "Premium cat food is great for a cat's overall health because it provides a balanced diet packed with essential nutrients. High-quality proteins, vitamins, and minerals in premium cat food support strong muscles and a robust immune system and keep your cat active and healthy.",
     "task_type": "fill_in_the_gap",
     "skipped": false
   },
