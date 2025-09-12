@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Zero-Shot Prompting",
     "content": null,
     "image_url": null
   },
@@ -33,6 +33,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Begin by creating a basic prompt for a customer support chatbot that handles common inquiries.",
+    "solution": "To resolve login issues, start by resetting your password using the "Forgot Password?" link on the login page. If that doesn't work, clear your browser's cache or try logging in from a different browser or device. If problems persist, contact customer support for further assistance.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -55,6 +56,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Provide ChatGPT with examples of how to handle typical customer support inquiries, guiding it on the expected responses.",
+    "solution": "To update your billing information, please go to the "Account Settings" section of your profile and select "Billing Information" to make any necessary changes.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -77,11 +79,11 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It makes the prompts less understandable",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "It simplifies the prompt by removing steps",
         "is_correct": false
       },
       {
@@ -104,6 +106,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Consider a complicated customer issue that requires several steps to resolve. How would you guide the chatbot through this process?",
+    "solution": "1. Can you please describe the issue you are experiencing? 2. When did you first notice the problem? 3. Have you tried any solutions or steps to resolve the issue? If so, what were they? 4. Could you specify the product or service you are having issues with? 5. Are there any error messages or unusual behavior you observed? Can you describe them?",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -130,6 +133,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Create a prompt that analyzes the issue and generates possible solutions or steps for resolution.",
+    "solution": "The issue described appears to be a hardware failure related to the product's power management system. Suggested steps for resolution are: 1. Ensure the device is connected to a power source and the outlet is functioning. 2. Perform a hard reset by holding down the power button for 10 seconds. 3. Check the device's battery health in the settings and replace it if necessary. If these steps do not resolve the issue, please escalate this to the technical support team for further diagnostics.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
