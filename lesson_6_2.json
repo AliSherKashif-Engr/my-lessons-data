@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Let's Celebrate Your Success!",
     "content": null,
     "image_url": null
   },
@@ -18,6 +18,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's start by generating unique event theme ideas:",
+    "solution": "1. Success Spectrum 2. Achievement Odyssey 3. Milestone Masquerade 4. Future Fiesta 5. Triumph Trails",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -34,6 +35,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Generate a comprehensive checklist that ensures every detail is noticed in your celebration.",
+    "solution": "1. Confirm venue decorations 2. Finalize guest list and send reminders 3. Coordinate with catering for menu and dietary requirements 4. Arrange entertainment or activities 5. Prepare speeches or presentations 6. Set up audio-visual equipment 7. Create a seating plan 8. Organize employee recognition items 9. Confirm transportation arrangements 10. Brief event staff on roles and responsibilities",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -57,19 +59,19 @@
     "question": "Which of the following prompts would be most effective for generating a detailed event budget using ChatGPT?",
     "options": [
       {
-        "text": "",
+        "text": "How much do you think the celebration will cost?",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Give me an approximate budget for better management of our event",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "List some celebration expenses",
         "is_correct": false
       },
       {
-        "text": "\"Generate a sample budget for our corporate celebration event with 100 employees\"",
+        "text": "Generate a sample budget for our corporate celebration event with 100 employees",
         "is_correct": true
       }
     ],
@@ -94,6 +96,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Create a detailed timeline for the celebration:",
+    "solution": "3:00 PM - Venue setup begins 4:30 PM - Staff briefing 5:00 PM - Guests start arriving 5:30 PM - Welcome speech 6:00 PM - Dinner service begins 7:00 PM - Employee recognition ceremony 8:00 PM - Entertainment and networking 9:00 PM - Closing remarks 9:30 PM - Guest departure 10:00 PM - Venue breakdown",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -102,11 +105,11 @@
     "question": "An effective event planner always prepares for the unexpected. Which prompt would you use to generate the most effective contingency plan for your celebration?",
     "options": [
       {
-        "text": "",
+        "text": "Give me some backup plans to help with emergencies during our celebration. What could go wrong at the event?",
         "is_correct": false
       },
       {
-        "text": "\"Create a comprehensive contingency plan for our corporate celebration, addressing potential issues such as technical failures, catering problems, and last-minute cancellations\"",
+        "text": "Create a comprehensive contingency plan for our corporate celebration, addressing potential issues such as technical failures, catering problems, and last-minute cancellations",
         "is_correct": true
       }
     ],
@@ -135,6 +138,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Ask ChatGPT to generate activities!",
+    "solution": "1. Company Trivia Challenge 2. Success Story Sharing Circle 3. Team Mural Creation 4. Appreciation Chain Game",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
