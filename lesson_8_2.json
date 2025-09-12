@@ -1,10 +1,16 @@
 [
   {
+    "type": "heading",
+    "title": "Context Management",
+    "content": null,
+    "image_url": null
+  },
+  {
     "type": "quiz",
     "question": "Before we start, why do you think it's a big deal to keep the conversation flowing smoothly when chatting with ChatGPT?",
     "options": [
       {
-        "text": "",
+        "text": "It takes you time, so you make less prompts to ChatGPT",
         "is_correct": false
       },
       {
@@ -12,11 +18,11 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "It helps ChatGPT to assess all the information about you and sell it",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "ChatGPT will create a personalized book about you",
         "is_correct": false
       }
     ],
@@ -27,11 +33,11 @@
     "question": "So, building on that - what do you think are some good tricks for keeping the conversation on track when you're chatting with ChatGPT?",
     "options": [
       {
-        "text": "",
+        "text": "Providing unrelated information",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Using vague prompts",
         "is_correct": false
       },
       {
@@ -73,12 +79,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's see if you can create prompts to maintain self-consistency in a conversation.",
+    "solution": "Subject: Your Input Needed: Quick Employee Survey Hi Team, We're conducting a brief survey to gather your feedback on working at Innotech. It takes only 10-15 minutes, and your responses will help us improve our workplace. Please complete it by the 5th of November. Here is the link. Thanks for helping us make Innotech a better place to work! Best, Jane",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Ask the Model to Adopt a Persona",
     "content": null,
     "image_url": null
   },
@@ -90,12 +97,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Now, to maintain self-consistency when composing the following emails, you have to do that again:",
+    "solution": "Subject: Welcome Our New Team Member! Hi Team, I'm excited to announce that Alex has joined Innotech as Data Analyst in our Marketing Department. Alex comes to us with rich experience, and we are thrilled to have them on board. I'm confident that he will bring great value to our team and help us to achieve our goals. Please join me in welcoming Alex to our company, and feel free to introduce yourself and make him feel at home! Thank you for your continued support and collaboration. Warm regards, Jane",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Provide Examples",
     "content": null,
     "image_url": null
   },
@@ -107,12 +115,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Type your prompt.",
+    "solution": "Subject: Welcome Our New Team Member! Hi Team, I'm excited to announce that right after Alex, Emma has joined Innotech too. She took the position of Product Manager in our Product Team. Emma comes to us as a seasoned expert in product management, and we are thrilled to have her on board. I'm confident that she will bring great value to our team and help us achieve our goals. Please join me in welcoming Emma to our company, and be comfortable to introduce yourself to make her feel at home! Thank you for your continued support and collaboration. Best regards, Jane",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Using Delimiters",
     "content": null,
     "image_url": null
   },
@@ -127,7 +136,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Specifying the Length",
     "content": null,
     "image_url": null
   },
@@ -142,7 +151,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Wrapping Up",
     "content": null,
     "image_url": null
   },
