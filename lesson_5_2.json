@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Become a Travel Agent with ChatGPT",
     "content": null,
     "image_url": null
   },
@@ -18,6 +18,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's look at how you can use ChatGPT to generate these ideas.",
+    "solution": "1. A family vacation to Disney World. 2. An adventure trip to the Amazon Rainforest. 3. A luxury getaway to the Maldives. 4. A cultural tour of Europe. 5. A wellness retreat in Bali.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -34,6 +35,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Create detailed itineraries for their personal travel package:",
+    "solution": "Magical Family Trip to Disney World: Day 1: Arrival and check-in at the hotel. Evening at Magic Kingdom. Day 2: Breakfast at the hotel, followed by a day at Epcot. Day 3: Animal Kingdom in the morning, afternoon pool time at the resort. Day 4: Visit Hollywood Studios and enjoy evening fireworks. Day 5: Breakfast, checkout, and travel back home.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -52,19 +54,19 @@
     "question": "A family wants a customized travel plan for their Disney World vacation with luxury experiences included. Which prompt would you use to ask ChatGPT for detailed suggestions?",
     "options": [
       {
-        "text": "",
+        "text": "Write about luxury travel tips",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me about Disney World",
         "is_correct": false
       },
       {
-        "text": "\"Give me a list of luxury places at Disney World\"",
+        "text": "Give me a list of luxury places at Disney World",
         "is_correct": false
       },
       {
-        "text": "\"Provide 3 luxury travel ideas for Disney World\"",
+        "text": "Provide 3 luxury travel ideas for Disney World",
         "is_correct": false
       }
     ],
@@ -74,6 +76,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "After the ideas are ready, you can ask ChatGPT to include them in your travel plan.",
+    "solution": "Day 1: Arrival and check-in at the hotel. Evening at Magic Kingdom with a reservation at a luxury gluten-free restaurant. Day 2: Breakfast at the hotel, followed by a day at Epcot, focusing on rides and attractions suitable for young children. Day 3: Animal Kingdom in the morning, afternoon pool time at the resort with kid-friendly activities. Day 4: Visit Hollywood Studios with VIP access to shows and an evening character dining experience. Day 5: Breakfast, checkout, and travel back home with a packed lunch for the trip.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -91,6 +94,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "You can paste the client's questions in ChatGPT and add the following prompt to get a draft response for them:",
+    "solution": ""Dear Client, thank you for reaching out! For your upcoming trip to Disney World, we have arranged a private transfer from the airport to your hotel, and your itinerary includes detailed information about transportation within the park. Let me know if you have any other questions!"",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -98,6 +102,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's see how you can deal with the next question:",
+    "solution": "Dear Client, thank you for reaching out! For your upcoming trip to Disney World, we have arranged a private transfer from the airport to your hotel. You will be staying at the Disney Resort, which offers several accommodation options suited to your preferences. Additionally, your itinerary includes information about local attractions and transportation within the park. Let me know if you have any other questions!",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -105,6 +110,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Well done! To consolidate your success, let's focus on how you can use ChatGPT to keep clients informed and engaged throughout their travel experience.",
+    "solution": "Good morning! Here's your daily update: Today, you have a scheduled visit to Magic Kingdom, followed by lunch at Be Our Guest Restaurant. Remember to bring comfortable walking shoes and your camera. Have a magical day at Disney World!",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
