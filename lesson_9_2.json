@@ -1,4 +1,10 @@
 [
+    {
+    "type": "heading",
+    "title": "Generating Creative Content",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Hello, I'm Michael Chen, CEO of TechInnovate Corp. Today, we'll create content using AI.\n\nYou already know how to frame prompts, manage context, and feed ChatGPT with the necessary data. Now, I have a challenging task for you!"
@@ -10,7 +16,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Your Mission",
     "content": null,
     "image_url": null
   },
@@ -28,11 +34,11 @@
     "question": "What is an important aspect of a prompt when generating creative content",
     "options": [
       {
-        "text": "",
+        "text": "Disregarding the audience's needs",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Including irrelevant details",
         "is_correct": false
       },
       {
@@ -40,7 +46,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Using ambiguous wording",
         "is_correct": false
       }
     ],
@@ -50,6 +56,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Well, that's correct! Let's start working on the article. First, you need an outline for your article:",
+    "solution": "Introduction: Importance of work-life balance Main Points: Definition of work-life balance Benefits of maintaining work-life balance Strategies to achieve work-life balance Conclusion: Recap and call to action",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -58,7 +65,7 @@
     "question": "Now that we have an outline, what's the next step?",
     "options": [
       {
-        "text": "",
+        "text": "Have some rest",
         "is_correct": false
       },
       {
@@ -66,7 +73,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Finalize the title",
         "is_correct": false
       },
       {
@@ -78,7 +85,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Gathering Data",
     "content": null,
     "image_url": null
   },
@@ -95,6 +102,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's move to the next step. After feeding the data from TechInnovate Corp. to ChatGPT, you need to start working with your article. Start with the title:",
+    "solution": "Achieving Work-Life Harmony in Today's Fast-Paced World",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -102,12 +110,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "After creating an engaging title, let's move to the intro:",
+    "solution": "In today's always-connected world, striking the perfect balance between work demands and personal life can seem like chasing a mirage. Yet, achieving work-life balance is not just a luxury - it's a crucial component of both professional success and personal well-being. This article delves into what work-life balance truly means, why it's vital, and how you can attain it. We'll explore practical strategies to harmonize your professional and personal life and discuss the transformative benefits of finding your equilibrium. Whether you're a busy professional or a multitasking parent, understanding and implementing these principles can lead to a more fulfilling and less stressful life.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Writing the Main Content",
     "content": null,
     "image_url": null
   },
@@ -124,12 +133,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "For now, let's create a prompt for writing the main content of the article.",
+    "solution": "Defining Work-Life Balance Work-life balance involves managing professional responsibilities alongside personal interests without compromising quality. This balance varies among individuals and changes over time. The Importance of Work-Life Balance Achieving work-life balance is crucial to reducing stress, preventing burnout, enhancing overall health, and increasing productivity. It allows for clearer boundaries and more efficient work periods while also improving personal relationships. Strategies to Achieve Work-Life Balance Set Clear Boundaries: Define work hours and disconnect outside these times.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Great Job!",
     "content": null,
     "image_url": null
   },
@@ -146,6 +156,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Complete the prompt:",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -168,6 +179,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Try to create a prompt for making editorial changes to refine the article.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -176,7 +188,7 @@
     "question": "When refining a prompt for generating a well-structured article, which approach is most effective for ensuring clarity and coherence in the final content?",
     "options": [
       {
-        "text": "",
+        "text": "Using general and broad language to allow flexibility",
         "is_correct": false
       },
       {
@@ -184,11 +196,11 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Emphasizing only the conclusion to give the article a strong ending",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Avoiding the inclusion of too many specifics to maintain creativity",
         "is_correct": false
       }
     ],
@@ -196,7 +208,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Great Job!",
     "content": null,
     "image_url": null
   },
@@ -211,7 +223,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Next Steps",
     "content": null,
     "image_url": null
   },
