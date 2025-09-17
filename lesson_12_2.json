@@ -22,11 +22,11 @@
     "question": "Alright, pop quiz time! When tackling TechNova's complex challenges with ChatGPT, what's your best bet?",
     "options": [
       {
-        "text": "",
+        "text": "Stick to simple, one-line prompts for everything",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Use the exact same prompt template for every problem",
         "is_correct": false
       },
       {
@@ -34,7 +34,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Avoid giving ChatGPT any specific instructions",
         "is_correct": false
       }
     ],
@@ -53,12 +53,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Create your first multi-step prompt.",
+    "solution": "Here's a comprehensive market analysis for TechNova's new smart home device: 1. Research Current Trends: Analyze the latest developments in smart home technology, including popular features, emerging technologies, and consumer preferences. 2. Analyze Competitors: Evaluate major players in the smart home market. Compare their product offerings, pricing strategies, marketing approaches, and market share. 3. Identify Target Demographics: Determine the most promising customer segments for TechNova's device. Consider factors such as age, income level, tech-savviness, and lifestyle.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Awesome Work!",
     "content": null,
     "image_url": null
   },
@@ -75,12 +76,13 @@
     "type": "practice_task",
     "title": "Time To Craft a Problem-Solving Prompt!",
     "instruction": "Now, let's switch gears. TechNova's got a customer service headache they need help with. Craft a logically correct and consistent prompt.",
+    "solution": "1. Identify the Problem: - Check if the device is powered on and the indicator lights are functioning. - Verify if the device is connected to the home Wi-Fi network. - Determine if the issue is with a specific feature or the entire device. 2. Diagnose the Cause: - Check the Wi-Fi signal strength near the device. - Verify if other devices on the network are functioning properly. - Check for any recent changes in network settings or router configuration.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Great Job!",
     "content": null,
     "image_url": null
   },
@@ -98,7 +100,7 @@
     "question": "When creating a problem-solving prompt for ChatGPT, what's a crucial element to include?",
     "options": [
       {
-        "text": "",
+        "text": "A directive to avoid suggesting multiple solution options",
         "is_correct": false
       },
       {
@@ -110,7 +112,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "A request for a quick, one-size-fits-all solution",
         "is_correct": false
       }
     ],
@@ -129,6 +131,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Create a comparative analysis prompt.",
+    "solution": "1. Social Media Marketing: Requires ongoing content creation and possibly paid advertising. Can reach a broad, tech-savvy audience across various platforms. 2. Influencer Partnerships: Costs depend on influencer rates but can be high for top-tier influencers. Targeted. Can reach specific demographics interested in smart home technology. 3. Search Engine Marketing (SEM): Requires ongoing investment in paid search results. Highly targeted. Reaches users who are actively searching for smart home solutions.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -146,7 +149,7 @@
     "question": "What's a key thing to remember when creating a comparative analysis prompt for ChatGPT?",
     "options": [
       {
-        "text": "",
+        "text": "Avoid mentioning any specific criteria",
         "is_correct": false
       },
       {
@@ -158,7 +161,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Ask for a biased analysis favoring one option",
         "is_correct": false
       }
     ],
@@ -166,7 +169,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Wrapping Up",
     "content": null,
     "image_url": null
   },
