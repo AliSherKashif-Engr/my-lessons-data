@@ -17,11 +17,11 @@
     "question": "What is a critical strategy when refining text for SEO to enhance both search engine ranking and user engagement?",
     "options": [
       {
-        "text": "",
+        "text": "Writing in long, complex sentences to appear more professional",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Overloading the text with keywords regardless of context",
         "is_correct": false
       },
       {
@@ -37,7 +37,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Feeding Instructions to ChatGPT",
     "content": null,
     "image_url": null
   },
@@ -54,6 +54,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "First, let's ask ChatGPT for instructions:",
+    "solution": "SEO Optimization Instructions Topic: Work-Life Balance Goals: Improve search engine ranking and readability. Target Audience: Professionals seeking better work-life balance. Primary Keywords: work-life balance, productivity, stress management, remote work.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -61,12 +62,13 @@
     "type": "practice_task",
     "title": "Adding Keywords",
     "instruction": "Now, let's create a prompt to add relevant keywords to the text.",
+    "solution": "Achieving Work-Life Harmony in Today's Fast-Paced World In today's high-speed, always-connected environment, finding the ideal balance between professional demands and personal life can often seem like an elusive goal. However, achieving work-life balance is essential, not just for professional success but also for personal well-being… Conclusion: Achieving work-life balance is crucial for minimizing stress and enhancing productivity and overall happiness. By establishing clear boundaries, managing your time efficiently, dedicating time to personal interests, and utilizing flexible work arrangements, you can foster a fulfilling, balanced lifestyle.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "What If You Don't Have Enough Keywords?",
     "content": null,
     "image_url": null
   },
@@ -87,12 +89,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Type your prompt.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Applying the Final Touches",
     "content": null,
     "image_url": null
   },
@@ -109,6 +112,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Type your prompt.",
+    "solution": "Competitor's Keywords: Time management Mental health Employee well-being Flexible working hours",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -137,7 +141,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Wrapping Up!",
     "content": null,
     "image_url": null
   },
