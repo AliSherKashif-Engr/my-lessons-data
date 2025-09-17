@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Welcome to the Team!",
     "content": null,
     "image_url": null
   },
@@ -26,6 +26,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's see how you can use ChatGPT to analyze this data.",
+    "solution": "1. Calculate the net profit margin for the quarter. 2. Determine the impact of the churn rate on monthly earnings. 3. Analyze the relationship between ARPU and retention rate. 4. Forecast the revenue for the next quarter considering current growth trends. 5. Evaluate the operating margin's effect on overall profitability.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -34,7 +35,7 @@
     "question": "Almost done! What should you do after generating complex analysis prompts?",
     "options": [
       {
-        "text": "",
+        "text": "Start the analysis manually without using ChatGPT",
         "is_correct": false
       },
       {
@@ -42,11 +43,11 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Ignore the prompts and start over",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Take a break and have some coffee",
         "is_correct": false
       }
     ],
@@ -56,6 +57,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Continue your chat:",
+    "solution": "Net profit margin calculation: ($5,000,000 - $3,200,000) / $5,000,000 = 36% Impact of churn rate: A 5% churn rate reduces monthly earnings by $25,000 (5% of $500,000). ARPU and retention rate analysis: With an ARPU of $100 and an 80% retention rate, each retained customer generates $80 monthly. Revenue forecast: With a 5% monthly growth and 1000 new customers per month, next quarter's projected revenue is $6,075,625. Operating margin effect: A 40% operating margin indicates that $2,000,000 of the revenue contributes to operating income.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -73,19 +75,19 @@
     "question": "ASAP Task! We almost forgot that we need a quarterly financial performance report! Suggest a prompt to ask ChatGPT to create this report.",
     "options": [
       {
-        "text": "",
+        "text": "Write a detailed financial performance report",
         "is_correct": false
       },
       {
-        "text": "\"Provide a quarterly financial performance report for TechInnovate Corp, including revenue, spending, net profit margin, churn rate, ARPU, and operating margin\"",
+        "text": "Provide a quarterly financial performance report for TechInnovate Corp, including revenue, spending, net profit margin, churn rate, ARPU, and operating margin",
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Summarize the complex financial data for the quarter",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Give me an overview of our financials",
         "is_correct": false
       }
     ],
@@ -93,7 +95,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Message from Sarah",
     "content": null,
     "image_url": null
   },
@@ -110,6 +112,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Delegate this task to ChatGPT:",
+    "solution": "TechInnovate Corp. has reported a quarterly revenue of $5,000,000 with spending amounting to $3,200,000, resulting in a net profit margin of 36%. The Customer Acquisition Cost stands at $500 per customer, with a retention rate of 80% and a churn rate of 5%. Monthly earnings have grown by 5%, and we have acquired 1000 new customers each month. The Average Revenue Per User (ARPU) is $100, which contributes to strong financial health. The operating margin of 40% indicates efficient cost management and profitability.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -118,19 +121,19 @@
     "question": "After crafting the financial performance report, what should you include in the analysis to provide deeper insights?",
     "options": [
       {
-        "text": "",
+        "text": "Add some general comments about the company",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "List the data without explanations",
         "is_correct": false
       },
       {
-        "text": "\"Include detailed explanations of the financial trends and their long-term implications\"",
+        "text": "Include detailed explanations of the financial trends and their long-term implications",
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Leave it as it is",
         "is_correct": false
       }
     ],
@@ -138,7 +141,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "ChatGPT's Response to the Prompt from the Quiz:",
     "content": null,
     "image_url": null
   },
@@ -159,12 +162,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Data visualizations are a great way to present your analysis. Let's script a request to create advanced visualizations based on the financial data.",
+    "solution": "1. Generate a bar chart showing the revenue, spending, and net profit margin for the quarter. 2. Create a multi-line graph depicting monthly earnings growth and new customer acquisition. 3. Produce a pie chart illustrating the allocation of spending and their impact on the operating margin.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Thank You for Your Hard Work!",
     "content": null,
     "image_url": null
   },
@@ -179,7 +183,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Well Done!",
     "content": null,
     "image_url": null
   },
