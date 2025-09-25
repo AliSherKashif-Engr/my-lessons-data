@@ -1,4 +1,10 @@
 [
+     {
+    "type": "heading",
+    "title": "The Marketplace Opportunity",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "There are many marketplaces where you can sell your prompts, including specialized websites like PromptBase or Arthub, eBook platforms like Amazon, and even as part of digital products.\n\nSo you can easily find places to sell your prompts for good money. But we'll talk more about them later; first, let's decide who we will sell to."
@@ -13,11 +19,11 @@
     "question": "Let's think about what a crucial first step is when preparing to sell AI prompts.",
     "options": [
       {
-        "text": "",
+        "text": "Pricing the prompts without research",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Ignoring market trends and demand",
         "is_correct": false
       },
       {
@@ -25,7 +31,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Writing random prompts without a specific focus",
         "is_correct": false
       }
     ],
@@ -33,7 +39,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Start by Researching Your Audience",
     "content": null,
     "image_url": null
   },
@@ -50,12 +56,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's start with content creators.",
+    "solution": "Content creators are typically aged 18-50. Their primary needs include high-quality tools and resources, continuous learning opportunities, reliable monetization methods, supportive communities for collaboration, and legal and financial support services. Their preferences lean towards creating video, written, audio, and visual content on user-friendly platforms equipped with analytics and monetization options. Content creators face several challenges, including keeping up with algorithm changes, standing out in a saturated market, finding consistent income sources, managing their time effectively to avoid burnout, dealing with technical issues, and handling negative feedback while maintaining a positive community.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Great, We Identified Your TA",
     "content": null,
     "image_url": null
   },
@@ -73,11 +80,11 @@
     "question": "Why is it important to start with simple task prompts?",
     "options": [
       {
-        "text": "",
+        "text": "To make quick sales without preparation",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "To avoid learning about the audience",
         "is_correct": false
       },
       {
@@ -93,7 +100,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Pricing Your Prompts",
     "content": null,
     "image_url": null
   },
@@ -110,12 +117,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Determine the appropriate pricing for your prompts.",
+    "solution": "Recommendations for Competitive Pricing 1. Evaluate the Complexity: Simpler prompts can be priced lower ($1-$5), while complex, highly specialized prompts can command higher prices ($10-$20 or more). 2. Consider Subscription Models: Offer subscription plans for frequent users to provide value and encourage long-term engagement. 3. Leverage Dynamic Pricing: Utilize AI tools to adjust prices based on demand, competition, and customer behavior, ensuring your prompts remain competitively priced and profitable.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Selling Your Prompts",
     "content": null,
     "image_url": null
   },
@@ -133,11 +141,12 @@
     "question": "What is a key factor in successfully selling your prompts?",
     "options": [
       {
-        "text": "",
+        "text": "Setting the highest possible price",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Ignoring the quality of the prompts
+",
         "is_correct": false
       },
       {
@@ -145,7 +154,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Listing them on any platform without strategy",
         "is_correct": false
       }
     ],
@@ -155,12 +164,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Draft a description for your prompts:",
+    "solution": "Elevate Your Content Creation with AI Prompts Unlock the potential of AI to transform your content creation process. Our expertly crafted AI prompts are designed to inspire, streamline workflows, and enhance the quality of your output. Here's how you can benefit: Examples of AI Prompts SEO-Optimized Titles: "Create an SEO-friendly title for an article about [topic] that solves [specific problem]." Landing Page Copy: "Write compelling copy for a [product/service] that addresses [customer pain point] and offers [unique solution]." The Prompt Base contains essential tips to help you make the most of each prompt, ensuring your content is always top-notch and engaging.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Congrats!",
     "content": null,
     "image_url": null
   },
@@ -170,7 +180,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Specialized Websites (e.g., PromptBase, Arthub):",
     "content": null,
     "image_url": null
   },
@@ -180,7 +190,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "eBook Platforms (e.g., Amazon Kindle):",
     "content": null,
     "image_url": null
   },
@@ -190,7 +200,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Own Website or Social Media:",
     "content": null,
     "image_url": null
   },
@@ -200,7 +210,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Choose Wisely!",
     "content": null,
     "image_url": null
   },
@@ -255,6 +265,7 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "You already know how to do this, prompt engineer!",
+    "solution": "Here is a customer support template for content creators: Subject: Order Confirmation for Your ChatGPT Prompts Dear [Content Creator's Name], Thank you for ordering ChatGPT prompts! Here are your order details: Price: $10 per prompt. Bulk discounts available: - 5 prompts for $45 - 10 prompts for $80 Delivery: Your prompts will be delivered within 48 hours. Bulk orders may take an extra 24 hours. If you have any questions, feel free to contact me.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
