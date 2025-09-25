@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Let's See How Much You've Learned!",
     "content": null,
     "image_url": null
   },
@@ -14,11 +14,11 @@
     "question": "What prompt would you choose to generate social media post ideas for a new eco-friendly product?",
     "options": [
       {
-        "text": "",
+        "text": "Tell me about our new eco-friendly product in general terms and any benefits it might have",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Give me some ideas for social media posts about our product that are interesting and engaging",
         "is_correct": false
       },
       {
@@ -37,15 +37,15 @@
     "question": "What prompt would you choose to create a troubleshooting guide for connectivity issues with a smart home device?",
     "options": [
       {
-        "text": "",
+        "text": "Tell me what's wrong with the device when it has connectivity issues and how to fix them",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Solve the connectivity issues with the device in a step-by-step manner for user assistance",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Help me fix the device by providing a guide on resolving connectivity problems effectively",
         "is_correct": false
       },
       {
@@ -60,7 +60,7 @@
     "question": "What prompt would you choose to ask ChatGPT for a financial performance report?",
     "options": [
       {
-        "text": "",
+        "text": "Give me a detailed report on our quarterly performance, including key financial metrics and any significant changes",
         "is_correct": false
       },
       {
@@ -72,7 +72,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me about our quarterly financials and create a performance report for our company with relevant details",
         "is_correct": false
       }
     ],
@@ -87,15 +87,15 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Give me vacation ideas for Disney World",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me what to do on a family vacation at Disney World",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Plan a family trip to Disney World",
         "is_correct": false
       }
     ],
@@ -106,11 +106,11 @@
     "question": "What prompt would you choose to write an engaging email to employees?",
     "options": [
       {
-        "text": "",
+        "text": "What should I say in an email to inform employees about a new team member and their role",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell your employees about a new employee joining the team and encourage them to welcome them warmly",
         "is_correct": false
       },
       {
@@ -118,7 +118,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Write an email to the employees about the new team member, including their role and a brief introduction",
         "is_correct": false
       }
     ],
@@ -129,15 +129,15 @@
     "question": "What prompt is best to ensure that you will generate content that aligns with compliance?",
     "options": [
       {
-        "text": "",
+        "text": "Create a checklist to ensure our AI tool adheres to these regulations",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Generate marketing content for our new product",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "What are the steps for privacy compliance, and how can we implement them to protect user data effectively",
         "is_correct": false
       },
       {
@@ -152,15 +152,15 @@
     "question": "What prompt would you choose to compare marketing strategies?",
     "options": [
       {
-        "text": "",
+        "text": "Give me marketing ideas for our product and compare them based on their potential ROI and target audience reach",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "What are the marketing strategies, and how do they compare in terms of cost and effectiveness for our new product",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me about marketing strategies for our product and compare them based on cost and audience reach",
         "is_correct": false
       },
       {
@@ -175,15 +175,15 @@
     "question": "What prompt would you choose for creating a customer feedback survey?",
     "options": [
       {
-        "text": "",
+        "text": "What should I include in a survey to gather customer feedback about our new product",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Generate some survey questions to get feedback on our new product from customers",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Tell me what questions to ask in a survey for our new product",
         "is_correct": false
       },
       {
@@ -198,11 +198,11 @@
     "question": "What prompt would you choose for developing a customer service script?",
     "options": [
       {
-        "text": "",
+        "text": "What should I say to customers who have questions about our product and how to resolve their issues",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Generate a simple script for dealing with customer questions about our product, focusing on key issues",
         "is_correct": false
       },
       {
@@ -210,7 +210,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Tell me how to handle customer inquiries about our product and create a basic script for it",
         "is_correct": false
       }
     ],
@@ -221,7 +221,7 @@
     "question": "What prompt would you choose to create an engaging eBook on prompt engineering?",
     "options": [
       {
-        "text": "",
+        "text": "Write an eBook about prompt engineering and ensure it covers various methods and their uses with some examples.",
         "is_correct": false
       },
       {
@@ -229,11 +229,11 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Create a guide on prompt engineering that explains different techniques, includes examples, and offers practical exercises.",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Generate an eBook on prompt engineering that includes sections on different prompting techniques and how to use them effectively.",
         "is_correct": false
       }
     ],
@@ -241,7 +241,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Congratulations! You've Completed the Course!",
     "content": null,
     "image_url": null
   },
