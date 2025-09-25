@@ -1,4 +1,10 @@
 [
+   {
+    "type": "heading",
+    "title": "The Urgent Message",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Imagine you are a professional data engineer who delegates most of your work to AI.\n\nOne morning, you receive an alarming message from the CEO of the company. It turns out that your AI calculations gave an inaccurate answer to an important client, and now the whole team has to figure out what went wrong."
@@ -13,11 +19,11 @@
     "question": "What is the first step you should take upon receiving the alarming message from the CEO?",
     "options": [
       {
-        "text": "",
+        "text": "Apologize to the client immediately without analyzing the issue",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Ignore the message and continue with your tasks",
         "is_correct": false
       },
       {
@@ -33,7 +39,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Setting Up the Analysis",
     "content": null,
     "image_url": null
   },
@@ -50,12 +56,13 @@
     "type": "practice_task",
     "title": "Let's Start!",
     "instruction": "Create a prompt to evaluate the performance of the AI.",
+    "solution": "Analyzing the performance of AI prompts involves evaluating their accuracy, which measures how well the prompts generate the desired responses, the response rate, indicating the frequency of relevant replies, and user satisfaction, which gauges the overall user experience and engagement with the AI-generated content. These metrics help determine the effectiveness of the prompts and guide improvements for better interaction outcomes.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Data Analysis Process",
     "content": null,
     "image_url": null
   },
@@ -74,7 +81,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Identifying the Problem",
     "content": null,
     "image_url": null
   },
@@ -91,12 +98,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Let's create a prompt to identify the specific issue with the AI prompts that caused the drop in accuracy.",
+    "solution": "I found several significant changes that likely contributed to the drop in accuracy: 1. Increased Complexity: The prompts were made more complex, which may have confused the AI and led to less accurate responses. 2. Ambiguity: Some prompts became more ambiguous, lacking clear instructions, resulting in varied and often inaccurate answers. 3. Context Reduction: Important context that previously helped guide the AI's responses was removed, leading to misunderstandings. 4. Keyword Changes: Key terms and phrases were altered, affecting how the AI interpreted and responded to queries.",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Refining the Prompts",
     "content": null,
     "image_url": null
   },
@@ -113,12 +121,13 @@
     "type": "practice_task",
     "title": "Fill in The Gap!",
     "instruction": "Create a prompt:",
+    "solution": "Here is the refined prompt: Analyze the market by comparing the sales data of the last five years: 1) Data Collection: Gather sales data for the last five years from reliable sources. 2) Data Cleaning: Ensure the data is clean and free from errors, duplicates, and inconsistencies. 3) Trends Identification: Identify any upward or downward trends in sales over the five-year period",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Evaluating the Changes",
     "content": null,
     "image_url": null
   },
@@ -145,7 +154,7 @@
     "question": "What should be the next step after observing improved metrics from the new AI prompts?",
     "options": [
       {
-        "text": "",
+        "text": "Inform clients that the issue is resolved without further checks",
         "is_correct": false
       },
       {
@@ -153,11 +162,11 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Revert to the old prompts to compare again",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Stop monitoring as the problem is solved",
         "is_correct": false
       }
     ],
