@@ -1,7 +1,7 @@
 [
   {
     "type": "heading",
-    "title": "",
+    "title": "Ethical Considerations",
     "content": null,
     "image_url": null
   },
@@ -16,7 +16,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Why Do I Need It?",
     "content": null,
     "image_url": null
   },
@@ -31,7 +31,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "It All Started With…",
     "content": null,
     "image_url": null
   },
@@ -49,11 +49,11 @@
     "question": "What do you think Alex primarily did wrong?",
     "options": [
       {
-        "text": "",
+        "text": "Alex forgot to file the legal documents",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Alex used outdated legal precedents",
         "is_correct": false
       },
       {
@@ -61,7 +61,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Alex did not consult any human experts",
         "is_correct": false
       }
     ],
@@ -69,7 +69,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "That's Not Funny…",
     "content": null,
     "image_url": null
   },
@@ -84,7 +84,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "So What Particularly Happened?",
     "content": null,
     "image_url": null
   },
@@ -110,11 +110,11 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Alex won the court case and became famous",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Alex went to prison for using unreliable AI",
         "is_correct": false
       }
     ],
@@ -122,7 +122,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Important Lesson",
     "content": null,
     "image_url": null
   },
@@ -137,7 +137,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Compliance in AI Use",
     "content": null,
     "image_url": null
   },
@@ -150,7 +150,7 @@
     "question": "What is the main reason for adhering to compliance when using AI tools?",
     "options": [
       {
-        "text": "",
+        "text": "To impress your boss",
         "is_correct": false
       },
       {
@@ -158,7 +158,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "To ensure ethical use of AI",
         "is_correct": false
       },
       {
@@ -170,7 +170,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Copyright 101",
     "content": null,
     "image_url": null
   },
@@ -188,7 +188,7 @@
     "question": "How can you ensure you're respecting copyright when using AI tools?",
     "options": [
       {
-        "text": "",
+        "text": "Borrow content and assume no one will notice, just like that time you borrowed your friend's favorite pen and never returned it",
         "is_correct": false
       },
       {
@@ -204,7 +204,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Fair Use – Your Legal Loophole",
     "content": null,
     "image_url": null
   },
@@ -222,11 +222,11 @@
     "question": "Which of the following can be considered fair use?",
     "options": [
       {
-        "text": "",
+        "text": "Using images from the internet without credit",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Quoting a few lines of a song in an educational video",
         "is_correct": false
       },
       {
@@ -242,7 +242,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Privacy Concerns – Don't Be Creepy",
     "content": null,
     "image_url": null
   },
@@ -260,7 +260,7 @@
     "question": "How can you ensure privacy compliance when using AI?",
     "options": [
       {
-        "text": "",
+        "text": "Throw GDPR regulations to the wind and hope for the best",
         "is_correct": false
       },
       {
@@ -268,7 +268,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "Share data freely because who needs privacy when you can have chaos",
         "is_correct": false
       }
     ],
@@ -276,7 +276,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Let's Get Practical",
     "content": null,
     "image_url": null
   },
@@ -294,7 +294,7 @@
     "question": "Which of the following actions does NOT align with compliance when using AI tools?",
     "options": [
       {
-        "text": "",
+        "text": "Ensure content falls under fair use",
         "is_correct": false
       },
       {
@@ -302,7 +302,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Use only publicly available content",
         "is_correct": false
       },
       {
@@ -314,7 +314,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Wrapping Up",
     "content": null,
     "image_url": null
   },
@@ -329,7 +329,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Next Steps",
     "content": null,
     "image_url": null
   },
